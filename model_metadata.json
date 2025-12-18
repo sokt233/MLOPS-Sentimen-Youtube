@@ -1,0 +1,16 @@
+{
+  "model_name": "baseline_sentiment",
+  "artifact_path": "models\\baseline_sentiment.joblib",
+  "evaluated_on": "data/processed/comments_labeled_auto.csv",
+  "evaluated_samples": 31,
+  "last_updated": "2025-12-17",
+  "metrics": {
+    "accuracy": 0.4,
+    "macro_precision": 0.25,
+    "macro_recall": 0.3333,
+    "macro_f1": 0.2857,
+    "weighted_precision": 0.3,
+    "weighted_recall": 0.4,
+    "weighted_f1": 0.3429
+  }
+}
